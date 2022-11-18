@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Xinux-Logo
+Description=A plymouth theme for Xinux
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xinux-logo
+ScriptFile=/usr/share/plymouth/themes/xinux-logo/xinux-logo.script
